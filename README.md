@@ -1,1 +1,5 @@
+No mundo atual, onde a informação é um dos recursos mais valiosos, os Sistemas de Informação (SI) desempenham um papel fundamental na gestão e no processamento de dados dentro de organizações. Eles são responsáveis por coletar, armazenar, processar e distribuir informações, auxiliando na tomada de decisões e na otimização de processos.
 
+Os SI são compostos por hardware, software, banco de dados, redes, pessoas e processos, funcionando em um ciclo contínuo de coleta, processamento, armazenamento, distribuição e uso. Dependendo da necessidade, podem ser classificados em diferentes tipos, como SPT (processamento de transações), SIG (gestão gerencial), SAD (suporte à decisão), ERP (integração empresarial), CRM (relacionamento com clientes) e MES (controle de produção).
+
+A integração entre sistemas, por meio de APIs, Web Services, Middleware e ETL, é essencial para garantir a troca eficiente de informações, reduzindo erros, aumentando a produtividade e proporcionando uma visão unificada dos dados dentro das organizações.
