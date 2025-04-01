@@ -28,9 +28,3 @@ Juntei materiais que vão te ajudar a entender melhor esse universo, incluindo:
 - **Modelo TCP/IP aplicado em IoT**
 - **Mapa mental de SI**
 
-## Como contribuir?
-
-Se tiver sugestões, críticas ou quiser colaborar com mais materiais, fique à vontade. Este repositório é um espaço para aprendizado e troca de conhecimento.
-
----
-Se quiser saber mais sobre algum tópico, explore os arquivos ou envie uma mensagem.
