@@ -1,30 +1,32 @@
-# Fundamentos de Sistemas de Informação
+# Repositório de Conceitos de Sistemas de Informação
 
-Bem-vindo ao repositório **Fundamentos de SI**! Aqui, reuni materiais essenciais para entender como os Sistemas de Informação transformam dados em conhecimento e ajudam na tomada de decisão.
+Bem-vindo ao meu repositório pessoal onde reúno os principais conceitos, teorias e práticas de Sistemas de Informação aprendidos durante a faculdade.  
 
-## O que são Sistemas de Informação?
+## Objetivo  
+Este repositório tem como finalidade principal armazenar, organizar e facilitar o estudo dos conteúdos abordados na disciplina de Sistemas de Informação, servindo também como meio de consulta para trabalhos e avaliações.  
 
-Os Sistemas de Informação estão por toda parte. Eles são responsáveis por coletar, armazenar, processar e distribuir informações de forma inteligente. Desde bancos de dados de grandes empresas até aplicativos que usamos no dia a dia, tudo faz parte desse universo.
+Além disso, ele funciona como um registro do meu progresso acadêmico, sendo uma ferramenta de suporte para alcançar minhas metas: crescimento intelectual e liberdade financeira.  
 
-## Tipos de Sistemas de Informação
+## Estrutura  
+O repositório será organizado por tópicos e unidades, contendo:  
+- Resumos  
+- Anotações  
+- Mapas mentais  
+- Glossários  
+- Exemplos práticos  
+- Referências bibliográficas  
 
-Dependendo da necessidade, os SI podem assumir diferentes formatos:
+## Como usar  
+Sinta-se à vontade para consultar o material aqui presente para reforçar seus estudos ou para servir de inspiração em seus próprios projetos acadêmicos.  
 
-- **SPT (Sistemas de Processamento de Transações)** → Gerenciam operações básicas, como pagamentos e pedidos.
-- **SIG (Sistemas de Informação Gerencial)** → Fornecem relatórios e dashboards para apoio à gestão.
-- **SAD (Sistemas de Apoio à Decisão)** → Auxiliam na tomada de decisão com base em dados e previsões.
-- **ERP (Enterprise Resource Planning)** → Integram vários setores de uma empresa em um único sistema.
-- **CRM (Customer Relationship Management)** → Focam na gestão do relacionamento com clientes.
-- **MES (Manufacturing Execution System)** → Controlam e monitoram processos de produção industrial.
+## Contribuições  
+Este é um projeto pessoal, mas se você quiser contribuir com sugestões ou conteúdos, fique à vontade para abrir uma issue ou pull request.  
 
-## O que você encontra aqui?
+## Contato  
+Anderson Carvalho — estudante de Sistemas de Informação  
+[anderson.carvalho@ufn.edu.br]  
 
-Juntei materiais que vão te ajudar a entender melhor esse universo, incluindo:
+---
 
-- **Computação em Nuvem**
-- **Glossário de termos de SI**
-- **Modelos IaaS, PaaS, SaaS**
-- **Internet das Coisas (IoT)**
-- **Modelo TCP/IP aplicado em IoT**
-- **Mapa mental de SI**
+Vamos juntos transformar conhecimento em poder e notas em conquistas!
 
