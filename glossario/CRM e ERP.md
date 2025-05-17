@@ -12,6 +12,8 @@ e comportamento dos consumidores, com o objetio de aumentar a satisfação, fide
 *Exemplo de uso: envio automátivo de e-mails para clientes que abandonaram o carrinho ou segmentação de campanhas de marketing.
 
 
+
+
 ERP (Enterprise Resource Planning)
 Tradução: Planejamento dos Recursos da Empresa
 Conceito: 
