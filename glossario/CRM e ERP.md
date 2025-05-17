@@ -25,3 +25,16 @@ produção e RH. O ERP facilita a tomada de decisões, evita retrabalho e melhor
 
 *Exemplo de uso: quando um pedido é feito, o ERP atualiza o estoque, gera nota fiscal, envia cobrança e comunica a entrega, tudo
 automaticamente.
+
+
+***Exemplos de softwares populares
+
+CRM conhecidos: 
+-Salesforce (o titã do CRM)
+-Hubspot (muito usado em inbound marketing)
+
+
+ERP conhecidos:
+-SAP (gigante no mundo corporativo)
+-Oracle NetSuite
+-TOTVS (muito forte no Brasil)
